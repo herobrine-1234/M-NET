@@ -1,0 +1,18 @@
+body{background:goldenrod;font-family: 'Sansita Swashed', cursive;}
+.header_div{background:white;color:red}
+.header_div img{width:100px}
+.main_div{background:indianred;padding:10px;margin-top:15px;border:3px solid green}
+#camera,#result{
+width:310px;height:300px;border:2px solid red;box-shadow:10px 10px 15px firebrick;
+}
+.main_div label{font-size:30px;margin-bottom:0px}
+.main_div button{font-size:15px;border:3px solid black;box-shadow:15px 15px 20px orange}
+.copyright{position:fixed;bottom:0;text-align:center;width:100%;background-color:black;color:white;}
+.footer_div{margin-bottom:50px;}
+.footer_div img{width:70px;}
+.footer_div h4{background-color: orchid;color:orange;font-weight:bold;border-radius: 10px;padding:5px;box-shadow:15px 15px 20px khaki;}
+
+
+
+
+
